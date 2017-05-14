@@ -3,13 +3,13 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/food"
-            android:icon="@drawable/food"
-            android:title="Main Food" />
+            android:id="@+id/playing"
+            android:icon="@drawable/ic_play_circle_outline_black_24dp"
+            android:title="Now Playing" />
         <item
-            android:id="@+id/recipes"
-            android:icon="@drawable/chef"
-            android:title="Food Recipes" />
+            android:id="@+id/comingsoon"
+            android:icon="@drawable/ic_unarchive_black_24dp"
+            android:title="Top Rate" />
         <item
             android:id="@+id/about"
             android:icon="@drawable/ic_info_outline_black_24dp"
