@@ -20,11 +20,12 @@ https://www.themoviedb.org/documentation/api
 * SQLite Dasar
 
 ## Deskripsi
-* 24Movie merupakan aplikasi berguna untuk mempermudah user dalam mengetahui info terkini seputar perfilman
+* 24Movie merupakan aplikasi berguna untuk mempermudah user dalam mengetahui info terkini seputar perfilman.Aplikasi ini mengimplementasikan navigasi drawer. Terdapat menu Now Playing, Top Rate dan About App. Menggunakan frgament, activity dan recyclerview. Pada data yang muncul apabila diklik akan menampilkan detail data tersebut. Lalu ada tombol kembali ke halaman sebelumnya.
 
-## Kelebihan Kekurangan
-* Kelebihan : Tampilan mearik, informasi terpercaya dan terkini
-* Kekurangan : Masih perlu pengembangan fitur fitur saat ini
+## Kelebihan
+* Tampilan mearik
+* Informasi terpercaya dan terkini
+
 
 ## Screenshot Aplikasi
 
